@@ -9,10 +9,10 @@ I'm looking to collaborate with other developers on projects.
 Ask me about the projects on my profile, raise an issue and help modify if possible.
 Feel free to reach out for collaborations.
 
- How to reach me: 
- -[Harrison Itotia](harrisonitotia@gmail.com)
--[Twitter](https://twitter.com/ItotiaCodes?t=muYoRpb5pDN5c1_MmsT_KA&s=09)
--LinkedIn [Harrison Itotia](www.linkedin.com/in/harrison-itotia)
+How to reach me: harrisonitotia@gmail.com
+ 
+Lets connect on Twitter [@itotiacodes](https://twitter.com/ItotiaCodes?t=muYoRpb5pDN5c1_MmsT_KA&s=09)
+LinkedIn [Harrison Itotia](www.linkedin.com/in/harrison-itotia)
 
 ## Languages
 
