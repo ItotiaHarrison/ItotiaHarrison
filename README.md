@@ -1,27 +1,18 @@
-<!-- ![This is an image](https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80) -->
+:wave: Hi, I'm Harrison Itotia. 
 
-:wave:Hi, I'm Harrison Itotia. 
+🤝 I'm looking to collaborate with other developers on projects.
 
-Full-stack Web Dev: JavaScript, React, Ruby, Rails.
+💬 Ask me about the projects on my profile, raise an issue and help modify if possible.
+   Feel free to reach out for collaborations.
 
-I'm looking to collaborate with other developers on projects.
-
-Ask me about the projects on my profile, raise an issue and help modify if possible.
-Feel free to reach out for collaborations.
-
-How to reach me: harrisonitotia@gmail.com
+:inbox_tray: How to reach me: harrisonitotia@gmail.com
  
 Lets connect on Twitter [@itotiacodes](https://twitter.com/ItotiaCodes?t=muYoRpb5pDN5c1_MmsT_KA&s=09)
 LinkedIn [Harrison Itotia](www.linkedin.com/in/harrison-itotia)
 
 ## Languages
 
-|      | LANGUAGES     |
-|-----:|---------------|
-|     1|  JAVASCRIPT   |
-|     2|    REACT      |
-|     3|    RUBY       |
-|     4|    RAILS      |
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItotiaHarrison&layout=compact&theme=dark"/>
 
 
 ## :chart: GitHub Stats
