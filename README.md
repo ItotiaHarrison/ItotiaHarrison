@@ -1,13 +1,13 @@
 :wave: Hi, I'm Harrison Itotia. 
 
-🤝 I'm looking to collaborate with other developers on projects.
+🤝 A full stack software developer.
 
 💬 Ask me about the projects on my profile, raise an issue and help modify if possible.
    Feel free to reach out for collaborations.
 
 :inbox_tray: How to reach me: harrisonitotia@gmail.com
  
-Lets connect on Twitter [@itotiacodes](https://twitter.com/ItotiaCodes?t=muYoRpb5pDN5c1_MmsT_KA&s=09)
+Lets connect:
 LinkedIn [Harrison Itotia](www.linkedin.com/in/harrison-itotia)
 
 ## Languages
